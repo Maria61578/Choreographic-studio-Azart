@@ -1,0 +1,69 @@
+html {
+    scroll-behavior: smooth;
+}
+body {
+    background: rgb(255, 236, 242);
+
+}
+header {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    background: rgb(255, 204, 211);
+    padding: 20px;
+    position: fixed;
+    top: 0;
+    width: 100vw;
+}
+main {
+    margin-top: 70px;
+}
+
+section {
+    height: 100рх;
+}
+.menu-item{
+    color: rgb(255, 255, 255);
+}
+.name{
+    background: rgb(255, 204, 211);
+}
+.name1{
+    background: rgb(255, 204, 211);
+}
+.Ola{
+    width: 50vw;
+    height: 600px;
+}
+.Ola1{
+    width: 25vw;
+    height: 610px;
+}
+.ctgr{
+    background: rgb(255, 204, 211);
+}
+.b{
+    font-size: 25px;
+}
+.с{
+    font-size: 25px;
+}
+.s{
+    font-size: 25px;
+}
+.h{
+    width: 30vw;
+    height: 600px;
+}
+.crgr{
+    background: rgb(255, 204, 211);
+}
+.mlgr{
+    background: rgb(255, 204, 211);
+}
+
+@media (max-width: 900px) {
+    header {
+        background: rgb(255, 204, 211);
+    }
+}
